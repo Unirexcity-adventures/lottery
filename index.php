@@ -57,7 +57,7 @@
 
   let main = document.getElementById("main");
   var index = 1;
-  let max_nft_to_select = 10;
+  let max_nft_to_select = 15;
 
   document.querySelector(settings.buttonSelector).addEventListener('click', async function(e) {
       if (index > max_nft_to_select) {
