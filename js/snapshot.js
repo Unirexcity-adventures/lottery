@@ -3546,7 +3546,8 @@ let snapshot = {
     "amount": 1,
     "mints": [
       "GT4QJPnzarV5RmeYYTnPDCDqqmyKZTcFqtzYYYiHJjbx"
-    ]{
+    ]
+  },
   "1x7esio3eBnCdQGAHXu8FDmHq4tdNh1SWDv6honcLGY": {
     "amount": 1,
     "mints": [
@@ -37026,4 +37027,4 @@ let snapshot = {
       "AFswM2H4UBBJsLmM4SYu1U9w48Q5iY6M2chdAYkUtbUA"
     ]
   }
-}
+};
