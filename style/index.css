@@ -100,7 +100,7 @@ body {
   padding-bottom: 50px;
 }
 
-h1 {
+h1, .z-h1 {
   font-family: Ordax;
   font-style: normal;
   font-weight: bold;
@@ -109,6 +109,27 @@ h1 {
   text-align: center;
   letter-spacing: 0.05em;
   text-transform: uppercase;
+  color: #442C15;
+}
+
+h2, .z-h2 {
+  font-family: Ordax;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 51px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #442C15;
+}
+
+p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 27px;
+  letter-spacing: 0.06em;
   color: #442C15;
 }
 
@@ -134,8 +155,8 @@ h1 {
 }
 
 .container {
-  max-width: 1440px;
-  width: 90%;
+  max-width: 980px;
+  width: 80%;
   margin: auto;
 }
 
@@ -150,5 +171,43 @@ h1 {
 .header__image {
   max-width: 250px;
   margin-top: 20px;
-  margin-bottom: 100px;
+  margin-bottom: 20px;
+}
+
+.unirex-winner {
+  margin-bottom: 20px;
+  display: flex;
+  position:relative;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.33);
+  border-radius: 10px;
+}
+
+.unirex-winner__info {
+  padding-left: 30px;
+}
+
+.unirex-winner__image {
+  width: 300px;
+  max-width: 50%;
+}
+
+.unirex-winner__number {
+  position:absolute;
+  display: block;
+  width: 30px;
+  height: 30px;
+  text-align:center;
+  background: #FFFF54;
+  border-radius: 100%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 27px;
+  letter-spacing: 0.06em;
+  color: #442C15;
+  left: 10px;
+  top:10px;
+  line-height: 29px;
 }
