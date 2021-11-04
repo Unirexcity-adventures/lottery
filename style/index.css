@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'Phosphate';
+  src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/PhosphateRRSolid.eot');
+  src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/PhosphateRRSolid.eot?#iefix') format('embedded-opentype'),
+      url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/PhosphateRRSolid.woff2?v=1631697725') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/PhosphateRRSolid.woff') format('woff'),
+      url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/PhosphateRRSolid.ttf') format('truetype'),
+      url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/PhosphateRRSolid.svg#PhosphateRRSolid') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordax';
+    src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Bold.eot');
+    src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Bold.woff2') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Bold.woff') format('woff'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Bold.ttf') format('truetype'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Bold.svg#Ordax-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ordax';
+    src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Regular.eot');
+    src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Regular.woff2') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Regular.woff') format('woff'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Regular.ttf') format('truetype'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Ordax-Regular.svg#Ordax-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Regular.eot');
+    src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Regular.woff2') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Regular.woff') format('woff'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Regular.ttf') format('truetype'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Regular.svg#Poppins-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Bold.eot');
+    src: url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Bold.woff2') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Bold.woff') format('woff'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Bold.ttf') format('truetype'),
+        url('https://cdn.shopify.com/s/files/1/0598/5137/4768/files/Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  -moz-font-feature-settings: "kern" 1;
+  -ms-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  -webkit-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+
+  scroll-behavior: smooth;
+}
+
+
+body {
+  background: linear-gradient(180deg, #EEEFD1 4.69%, #EFD1D9 33.85%, #BCCDDD 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+h1 {
+  font-family: Ordax;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 58px;
+  line-height: 69px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #442C15;
+}
+
+.unirex-button {
+  background: #FFFF54;
+  border-radius: 90px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  padding: 20px 25px;
+  text-transform: uppercase;
+  color: #3C230C;
+  border: 0;
+  cursor: pointer;
+  outline: 0;
+}
+
+.unirex-button[disabled] {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.container {
+  max-width: 1440px;
+  width: 90%;
+  margin: auto;
+}
+
+.align-left { text-align: left; }
+
+/** home page **/
+
+#main {
+  margin-top: 60px;
+}
+
+.header__image {
+  max-width: 250px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
